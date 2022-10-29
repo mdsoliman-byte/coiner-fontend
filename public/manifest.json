@@ -1,6 +1,13 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Coiner Trading ",
+  "name": "Coiner",
+  "description": "Coiner Trading And chemicale Company ",
+  "lang": "en-US",
+  "orientation": "portrait",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#E43023",
+  "background_color": "#ffffff",
   "icons": [
     {
       "src": "favicon.ico",
@@ -17,9 +24,5 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
